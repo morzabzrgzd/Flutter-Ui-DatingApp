@@ -1,6 +1,9 @@
-# dating_app_sign_up
+# Dating App Sign up Design (Flutter Ui)
 
-A new Flutter project.
+![X - 7](https://user-images.githubusercontent.com/87581799/132537468-02dbcbb0-d89c-4adc-8220-d8b43d26ebd3.png)
+![X - 5](https://user-images.githubusercontent.com/87581799/132537476-eef0ec89-140c-41e8-bc35-93a3412a9b71.png)
+![X - 6](https://user-images.githubusercontent.com/87581799/132537512-93f53ce0-6180-4aaa-83bb-efccfbff8ca7.png)
+
 
 ## Getting Started
 
