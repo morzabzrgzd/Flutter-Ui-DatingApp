@@ -1,8 +1,9 @@
 # Dating App Sign up Design (Flutter Ui)
 
-![X - 7](https://user-images.githubusercontent.com/87581799/132537468-02dbcbb0-d89c-4adc-8220-d8b43d26ebd3.png)
-![X - 5](https://user-images.githubusercontent.com/87581799/132537476-eef0ec89-140c-41e8-bc35-93a3412a9b71.png)
-![X - 6](https://user-images.githubusercontent.com/87581799/132537512-93f53ce0-6180-4aaa-83bb-efccfbff8ca7.png)
+![Screenshot_1631114639](https://user-images.githubusercontent.com/87581799/132538273-f8a57d8b-d278-444b-b63e-ab0203bc1797.png)
+![Screenshot_1631114628](https://user-images.githubusercontent.com/87581799/132538283-fd597bf4-cb32-4330-8e38-56a41b746ebc.png)
+![Screenshot_1631114635](https://user-images.githubusercontent.com/87581799/132538286-2bf01fe6-fdd7-417a-a514-3ebe99a5b58a.png)
+
 
 
 ## Getting Started
